@@ -1,17 +1,6 @@
 #ifndef MATRIZ_ADJ_GRAFO_HPP
 #define MATRIZ_ADJ_GRAFO_HPP
 
-struct Coords
-{
-    double x;
-    double y;
-};
-
-struct Portal
-{
-    int u, v;
-};
-
 class GraphMatriz
 {
 private:

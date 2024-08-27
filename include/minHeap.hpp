@@ -5,7 +5,7 @@ struct State
 {
     int no;
     double custo;
-    int portaisUsados;
+    int portaisRestantes;
 };
 
 class MinHeap
